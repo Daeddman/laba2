@@ -1,0 +1,14 @@
+/Users/daeddman/RiderProjects/laba2/laba2/bin/Debug/net7.0/laba2
+/Users/daeddman/RiderProjects/laba2/laba2/bin/Debug/net7.0/laba2.deps.json
+/Users/daeddman/RiderProjects/laba2/laba2/bin/Debug/net7.0/laba2.runtimeconfig.json
+/Users/daeddman/RiderProjects/laba2/laba2/bin/Debug/net7.0/laba2.dll
+/Users/daeddman/RiderProjects/laba2/laba2/bin/Debug/net7.0/laba2.pdb
+/Users/daeddman/RiderProjects/laba2/laba2/obj/Debug/net7.0/laba2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daeddman/RiderProjects/laba2/laba2/obj/Debug/net7.0/laba2.AssemblyInfoInputs.cache
+/Users/daeddman/RiderProjects/laba2/laba2/obj/Debug/net7.0/laba2.AssemblyInfo.cs
+/Users/daeddman/RiderProjects/laba2/laba2/obj/Debug/net7.0/laba2.csproj.CoreCompileInputs.cache
+/Users/daeddman/RiderProjects/laba2/laba2/obj/Debug/net7.0/laba2.dll
+/Users/daeddman/RiderProjects/laba2/laba2/obj/Debug/net7.0/refint/laba2.dll
+/Users/daeddman/RiderProjects/laba2/laba2/obj/Debug/net7.0/laba2.pdb
+/Users/daeddman/RiderProjects/laba2/laba2/obj/Debug/net7.0/laba2.genruntimeconfig.cache
+/Users/daeddman/RiderProjects/laba2/laba2/obj/Debug/net7.0/ref/laba2.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5B21UZNhlzI=",
+  "success": true,
+  "projectFilePath": "/Users/daeddman/RiderProjects/laba2/block_1/block_1.csproj",
+  "expectedPackageFiles": [
+    "/Users/daeddman/.nuget/packages/xamarin.forms/5.0.0.2662/xamarin.forms.5.0.0.2662.nupkg.sha512"
+  ],
+  "logs": []
+}
